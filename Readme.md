@@ -13,3 +13,19 @@
 ![terminal-1](assets/images/all_students_name/terminal.png)
 ### -- jtl result
 ![jtl-results-1](assets/images/all_students_name/jtl_result.png)
+
+
+
+## Screenshots of performance testing: /highest-gpa (GUI)
+### -- view results in table
+![Results-In-Table-2](assets/images/highest_gpa/view_results_in_table.png)
+### -- graph_results
+![graph-results-2](assets/images/highest_gpa/graph_results.png)
+### -- summary reports
+![summary-report-2](assets/images/highest_gpa/summary_report.png)
+
+## Screenshots of performance testing: /highest-gpa (Command-Line)
+### -- terminal
+![terminal-2](assets/images/highest_gpa/terminal.png)
+### -- jtl result
+![jtl-results-2](assets/images/highest_gpa/jtl_results.png)
